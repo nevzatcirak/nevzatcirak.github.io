@@ -1,11 +1,11 @@
-title: Nevzat ÇIRAK (nevzatcirak)
+title: Nevzat Çırak (nevzatcirak)
 description: Full Stack Software Engineer
 author:
   name: Nevzat Çırak
   nickname: nevzatcirak
   twitter: nevzatcirak
-hostname: nevzatcirak.me # used to determine if google analytics should be triggered
-url: https://nevzatcirak.me # the base hostname & protocol for your site
+hostname: nevzatcirak.github.io # used to determine if google analytics should be triggered
+url: https://nevzatcirak.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
