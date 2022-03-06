@@ -15,7 +15,8 @@ social:
   links:
     - https://twitter.com/nevzatcirak
     - https://github.com/nevzatcirak
-    - https://nevzatcirak.me/
+    - https://nevzatcirak.com/
+    - https://www.instagram.com/nevzatcirak/
     - http://www.linkedin.com/in/nevzatcirak
 
 twitter:
@@ -30,19 +31,22 @@ links:
   - name: github
     url: https://github.com/nevzatcirak
     class: fab fa-github
+  - name: linkedin
+    url: https://www.linkedin.com/in/nevzatcirak
+    class: fab fa-linkedin-in
+  - name: instagram
+    url: https://www.instagram.com/nevzatcirak/
+    class: fab fa-instagram
   - name: twitter
     url: https://twitter.com/nevzatcirak
     class: fab fa-twitter
   - name: personal website
-    url: https://nevzatcirak.me/
+    url: https://nevzatcirak.com/
     class: far fa-newspaper
-  - name: linkedin
-    url: https://www.linkedin.com/in/nevzatcirak
-    class: fab fa-linkedin-in
   - name: cv (pdf)
     id: resume
-    type: download
-    url: https://nevzatcirak.me/cv
+    #type: download
+    url: https://me.nevzatcirak.com
     class: fas fa-file-alt
 
 # additional stuff
